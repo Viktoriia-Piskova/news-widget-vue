@@ -2,7 +2,7 @@
   <div class="hello">
     <div class="article-card">
       <h3>{{ articles }}</h3>
-      <p></p>
+      <p>json</p>
     </div>
   </div>
 </template>
